@@ -1,0 +1,17 @@
+ 
+WDFGK.dat
+contains the systems with FGK companions from Stephania's (PhD student from UV) paper: 8 from the literature, 5 new (3 from the submitted paper, 2 new).The unpublished systems are with *. We can use them to test but we cannot publish this yet.
+
+WDdM_sdsscat.dat
+contains the systems from the sdss catalogue that Alberto Rebassa compiled, here all companions are M dwarfs. 
+
+WDdM_literature2010paper.dat
+contains the WD+dM systems from the literature (not SDSS) that were included in Monica's (Zorotovic) 2010 paper (the CE efficiency one).
+
+In the first line you have the format  - sorry is not the same, and periods can be in hours or days depending on the table I took it from.
+
+Observingsamples-sdB+dM.csv
+As for the sdB reflection effect binaries I can share with you the list I have but unfortunately what we have are only orbital periods (in days) as I still have not obtained any (spectroscopic) data.
+
+1Kpc_Hiparchos_sample_cut.csv
+1Kpc hipachos sample with gaia colours, randomly sampled to get 5000 systems.
